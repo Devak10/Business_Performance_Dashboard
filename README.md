@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard using Power BI
+# 📊 Business Performance Dashboard using Power BI
 
 ## Project Overview
 
