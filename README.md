@@ -1,8 +1,8 @@
-# 📊 Business Performance Dashboard using Power BI
+# 📊 Business Performance Dashboard
 
 ## Project Overview
 
-This project is an interactive Power BI dashboard developed to analyze sales performance. The dashboard provides meaningful insights through KPIs, charts, and filters, helping users understand sales trends and business performance.
+The Business Performance Dashboard is an interactive Power BI dashboard designed to analyze key business metrics and support data-driven decision-making. It provides insights into revenue, profit, sales trends, and product performance through interactive visualizations.
 
 ---
 
@@ -12,43 +12,29 @@ This project is an interactive Power BI dashboard developed to analyze sales per
 
 ---
 
-## Features
+## Key Features
 
 - Total Revenue KPI
 - Total Profit KPI
-- Sales Trend Analysis
+- Total Orders KPI
+- Monthly Sales Trend
 - Sales by Category
-- Sales by Region
+- Top Performing Products
 - Interactive Filters (Slicers)
-- User-friendly Dashboard Design
-
----
-
-## Dataset
-
-- Source: Sales Dataset
-- Format: CSV
-- Records: (Mention the number of rows if known)
 
 ---
 
 ## Tools Used
 
 - Power BI Desktop
-- Microsoft Excel / CSV
-- GitHub
+- CSV Dataset
+- Git & GitHub
 
 ---
 
 ## Files Included
 
-- Dashboard.pbix
-- sales_data.csv
+- Business_Performance_Dashboard.pbix
+- Business_Performance_Dataset.csv
 - dashboard.png
 - README.md
-
----
-
-## Author
-
-Devak G
